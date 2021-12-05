@@ -1,0 +1,13 @@
+{
+  "profileName": "Project_bot",
+  "jobId": "0b18450f-d4d4-4626-b11d-f3fa8c3e5a3b",
+  "projectId": "1173.935491459055",
+  "time": "2021-11-30T13:06:44.615Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Use the Resource Group: qnaproject1 at westus",
+    "Deploying Luis Authoring Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}
